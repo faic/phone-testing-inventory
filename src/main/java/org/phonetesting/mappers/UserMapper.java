@@ -3,7 +3,7 @@ package org.phonetesting.mappers;
 import org.mapstruct.Mapper;
 import org.mapstruct.factory.Mappers;
 import org.phonetesting.dtos.UserDTO;
-import org.phonetesting.persistance.User;
+import org.phonetesting.persistence.User;
 
 
 @Mapper

@@ -1,10 +1,9 @@
 package org.phonetesting.mappers;
 
 import org.mapstruct.Mapper;
-import org.mapstruct.Mapping;
 import org.mapstruct.factory.Mappers;
 import org.phonetesting.dtos.PhoneDTO;
-import org.phonetesting.persistance.Phone;
+import org.phonetesting.persistence.Phone;
 
 @Mapper
 public interface PhoneMapper {

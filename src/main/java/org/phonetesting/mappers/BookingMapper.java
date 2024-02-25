@@ -3,7 +3,7 @@ package org.phonetesting.mappers;
 import org.mapstruct.Mapper;
 import org.mapstruct.factory.Mappers;
 import org.phonetesting.dtos.BookingDTO;
-import org.phonetesting.persistance.Booking;
+import org.phonetesting.persistence.Booking;
 
 @Mapper
 public interface BookingMapper {

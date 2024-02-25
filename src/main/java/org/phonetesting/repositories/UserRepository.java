@@ -1,6 +1,6 @@
 package org.phonetesting.repositories;
 
-import org.phonetesting.persistance.User;
+import org.phonetesting.persistence.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

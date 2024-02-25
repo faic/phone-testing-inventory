@@ -3,8 +3,8 @@ package org.phonetesting.mappers;
 import org.mapstruct.Mapper;
 import org.mapstruct.factory.Mappers;
 import org.phonetesting.dtos.PhoneDetailedDTO;
-import org.phonetesting.persistance.Booking;
-import org.phonetesting.persistance.Phone;
+import org.phonetesting.persistence.Booking;
+import org.phonetesting.persistence.Phone;
 
 import java.util.Optional;
 

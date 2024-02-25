@@ -1,7 +1,7 @@
 package org.phonetesting.repositories;
 
 import jakarta.persistence.LockModeType;
-import org.phonetesting.persistance.Phone;
+import org.phonetesting.persistence.Phone;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Lock;
 import org.springframework.stereotype.Repository;

@@ -1,4 +1,4 @@
-package org.phonetesting.persistance;
+package org.phonetesting.persistence;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
