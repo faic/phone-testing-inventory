@@ -1,4 +1,4 @@
-package org.phonetesting;
+package org.phonetesting.service;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
